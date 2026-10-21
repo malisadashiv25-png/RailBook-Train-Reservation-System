@@ -1,0 +1,21 @@
+================================================================
+                 COLLEGE RAILWAY RESERVATION SYSTEM             
+                     PASSENGER E-TICKET RECEIPT                 
+================================================================
+PNR Number       : PNR5178806
+Passenger Name   : sadashiv
+Train Number     : 12259
+Ticket Category  : AC 2-Tier (2A)
+AC Class Tier    : Tier 2 (2A)
+Tier Surcharge   : Rs. 300.00
+GST Rate Applied : 5%
+----------------------------------------------------------------
+Base Fare        : Rs. 450.00
+TOTAL FARE       : Rs. 787.50
+----------------------------------------------------------------
+Booking Status   : CONFIRMED
+Issued On        : 2026-10-18 11:55:31
+================================================================
+        * ACADEMIC PROJECT DEMONSTRATION - NOT AN OFFICIAL TICKET *
+                  WISH YOU A SAFE AND HAPPY JOURNEY!            
+================================================================

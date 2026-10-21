@@ -1,0 +1,3 @@
+# RailBook User Accounts Database
+# Format: USERNAME|FULL_NAME|EMAIL|PASSWORD_HASH|SALT|CREATED_AT
+demo|College Demo User|demo@railbook.edu|74ba2ba21127656cacaaca9d2e5598157628d3bc1dc978c6579d9779d8fe775d|f67fabb2825f300d89ed0ba2bf4d6225|2026-10-18 12:14:44
